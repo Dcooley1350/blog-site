@@ -1,0 +1,14 @@
+.about-me{
+  font-family: sans-serif;
+  font-style: italic;
+}
+.section-headers{
+  font-style: bold;
+}
+.highlight{
+  color: Red;
+}
+.countries{
+  color: green;
+  font-style: bold;
+}
