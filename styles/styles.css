@@ -4,6 +4,7 @@
 }
 .section-headers{
   font-style: bold;
+  color: black;
 }
 .highlight{
   color: Red;
@@ -11,4 +12,8 @@
 .countries{
   color: green;
   font-style: bold;
+}
+.blog-post{
+  color: blue;
+  font-family: sans-serif;
 }
